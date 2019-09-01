@@ -1,5 +1,8 @@
 # E01a-Control-Structues
 
+
+answered all the questions and did the extra credit
+
 Let's start writing some Python code! This is the first set of exercises for MSCH-C220; they should give you the tools to build your first game.
 
 *The computers in LI 503 should have Python, VS Code, and git already installed. These links are provided for installing those applications on your own computer:*
